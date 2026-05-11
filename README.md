@@ -1,11 +1,6 @@
 # Code-and-Data-Detection-of-anisotropic-cosmic-structures-on-a-gigaparsec-scale
-This repository holds the codes employed in the study "Detection of anisotropic cosmic structures on a gigaparsec scale"  by Francesco Sylos Labini &amp; Marco Galoppo.
 
-README.txt
-
-Data and Code Availability
-
-This repository contains the data products and Python scripts used in the analysis presented in:
+This repository contains the Python scripts used in the analysis presented in:
 
 Detection of Anisotropic Cosmic Structures on a Gigaparsec  Scale
 Francesco Sylos Labini & Marco Galoppo
