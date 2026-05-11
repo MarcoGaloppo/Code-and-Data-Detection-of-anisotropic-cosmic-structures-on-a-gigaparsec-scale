@@ -61,8 +61,7 @@ The corresponding data files are:
 
 Each file contains the projected galaxy positions used in the analysis. These are avilable at
 
-10.5281/zenodo.20118015
-
+https://zenodo.org/records/20118015
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 5. Computation of the Angular Distribution of Pairwise Distances (ADPD)
